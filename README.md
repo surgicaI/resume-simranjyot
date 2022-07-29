@@ -1,1 +1,1 @@
-# resume-simranjyot
+Public repo to share resume
